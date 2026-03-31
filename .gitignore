@@ -1,0 +1,17 @@
+# Environment variables - never push credentials to GitHub
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system files
+.DS_Store
+
+# Data files
+*.csv
+*.db
+
+# Virtual environment
+venv/
